@@ -1,2 +1,2 @@
-# milsh
-optimistic shell
+# MiLSH
+Optimistic Shell
