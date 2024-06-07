@@ -1,3 +1,10 @@
+# Build
+build/
+
+# Tools
+*.json
+*.rdbg
+
 # Prerequisites
 *.d
 
